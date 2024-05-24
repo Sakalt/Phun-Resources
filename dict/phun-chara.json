@@ -8,7 +8,7 @@
         "value": "人"
       },
       {
-        "name": "PhunID",
+        "name": "ID",
         "value": "1"
       },
       {
@@ -22,11 +22,11 @@
     ],
     "langs": [
       {
-        "lang": "雰語",
+        "lang": "ホタル語",
         "data": [
           {
             "name": "発音",
-            "value": "ha1"
+            "value": "ho1"
           },
           {
             "name": "意味",
@@ -34,9 +34,9 @@
           },
           {
             "name": "リンク",
-            "value": "雰和辞典",
+            "value": "蛍和辞典",
             "type": "link",
-            "url": "https://dict.kaeru2193.net/?rule=perfect&text=人"
+            "url": "https://dict.hotal.net/?rule=perfect&text=人"
           }
         ]
       },
@@ -45,7 +45,7 @@
         "data": [
           {
             "name": "発音",
-            "value": "ʔhak ̚˥"
+            "value": "ʔha ̚˥"
           }
         ]
       },
@@ -79,7 +79,7 @@
         "value": "力"
       },
       {
-        "name": "PhunID",
+        "name": "ID",
         "value": "2"
       },
       {
@@ -93,11 +93,11 @@
     ],
     "langs": [
       {
-        "lang": "雰語",
+        "lang": "ホタル語",
         "data": [
           {
             "name": "発音",
-            "value": "nai2"
+            "value": "nyaol2"
           },
           {
             "name": "意味",
@@ -105,9 +105,9 @@
           },
           {
             "name": "リンク",
-            "value": "雰和辞典",
+            "value": "蛍和辞典",
             "type": "link",
-            "url": "https://dict.kaeru2193.net/?rule=perfect&text=力"
+            "url": "https://dict.hotal.net/?rule=perfect&text=力"
           }
         ]
       },
@@ -116,7 +116,7 @@
         "data": [
           {
             "name": "発音",
-            "value": "nɛk ̚˧"
+            "value": "nya ̚l"
           }
         ]
       },
@@ -150,7 +150,7 @@
         "value": "手"
       },
       {
-        "name": "PhunID",
+        "name": "ID",
         "value": "3"
       },
       {
@@ -164,11 +164,11 @@
     ],
     "langs": [
       {
-        "lang": "雰語",
+        "lang": "蛍語",
         "data": [
           {
             "name": "発音",
-            "value": "taos3"
+            "value": "tan3"
           },
           {
             "name": "意味",
@@ -176,9 +176,9 @@
           },
           {
             "name": "リンク",
-            "value": "雰和辞典",
+            "value": "蛍和辞典",
             "type": "link",
-            "url": "https://dict.kaeru2193.net/?rule=perfect&text=手"
+            "url": "https://dict.hotal.net/?rule=perfect&text=手"
           }
         ]
       },
@@ -187,7 +187,7 @@
         "data": [
           {
             "name": "発音",
-            "value": "tʰɔst ̚˧˩"
+            "value": "tʰɔan"
           }
         ]
       },
