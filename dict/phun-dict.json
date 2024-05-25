@@ -18,7 +18,7 @@
       "append": [],
       "ipa": "/ha˥˥/",
       "pron": "ha1",
-      "latinPron": "há",
+      "latinPron": "hÀ",
       "example": [
         {
           "pn": "十七億人活在之丸。",
@@ -41,9 +41,9 @@
         }
       ],
       "append": [],
-      "ipa": "/nai˨˨/",
-      "pron": "nai2",
-      "latinPron": "nài",
+      "ipa": "/nang˨˨/",
+      "pron": "nadg2",
+      "latinPron": "nàng",
       "example": [],
       "num": "2"
     },
@@ -61,9 +61,9 @@
         }
       ],
       "append": [],
-      "ipa": "/taos˥˧/",
-      "pron": "taos3",
-      "latinPron": "tâos",
+      "ipa": "/ten/",
+      "pron": "ten",
+      "latinPron": "ten",
       "example": [],
       "num": "3"
     },
@@ -81,9 +81,9 @@
         }
       ],
       "append": [],
-      "ipa": "/βɛ˥˥.taos˥˧/",
-      "pron": "ve1 taos3",
-      "latinPron": "vétâos",
+      "ipa": "/βung.ten/",
+      "pron": "vung1 ten",
+      "latinPron": "vungten",
       "example": [],
       "num": "-"
     },
@@ -101,13 +101,13 @@
         }
       ],
       "append": [],
-      "ipa": "/ʃɛ˥˧/",
-      "pron": "xe3",
-      "latinPron": "xê",
+      "ipa": "/ʃɛn˥˧/",
+      "pron": "xen3",
+      "latinPron": "xên",
       "example": [
         {
-          "pn": "我為之機。",
-          "ja": "私はかえるです。"
+          "pn": "我為天子。",
+          "ja": "私は天子(日国で一番名前が多い。)です。"
         }
       ],
       "num": "4"
@@ -123,16 +123,16 @@
               "tag": []
             },
             {
-              "translate": "陽教の五元素の一つ。",
+              "translate": "蛍教の五元素の一つ。",
               "tag": []
             }
           ]
         }
       ],
       "append": [],
-      "ipa": "/lɯŋ˨˨/",
+      "ipa": "/kuaol˨/",
       "pron": "lung2",
-      "latinPron": "lùng",
+      "latinPron": "kùaol",
       "example": [],
       "num": "5"
     },
@@ -150,12 +150,12 @@
         }
       ],
       "append": [],
-      "ipa": "/lɯŋ˨˨.mɛ˨˨/",
-      "pron": "lung2 me2",
-      "latinPron": "lùngmè",
+      "ipa": "/kuaol˨.hɛ˨˨/",
+      "pron": "kùaol he1",
+      "latinPron": "kùaolhé",
       "example": [],
       "num": "-"
-    },
+    }ひ,
     {
       "word": "水",
       "mean": [
@@ -178,19 +178,19 @@
         }
       ],
       "append": [],
-      "ipa": "/so˥˧/",
-      "pron": "so3",
-      "latinPron": "sô",
+      "ipa": "/xoul˧/",
+      "pron": "xoul3",
+      "latinPron": "xôul",
       "example": [
         {
-          "pn": "水杯居上机。",
+          "pn": "水杯有上机状。",
           "ja": "水入りのコップが机の上にある。"
         }
       ],
       "num": "6"
     },
     {
-      "word": "水丸",
+      "word": "水玉",
       "mean": [
         {
           "type": "名詞",
@@ -203,9 +203,9 @@
         }
       ],
       "append": [],
-      "ipa": "/so˥˧.lɯoŋ˥˧/",
-      "pron": "so3 luong3",
-      "latinPron": "sô'lûong",
+      "ipa": "/xoul˧.ayɯoŋ/",
+      "pron": "xoul ayong",
+      "latinPron": "xôul ayong",
       "example": [],
       "num": "-"
     },
@@ -223,9 +223,9 @@
         }
       ],
       "append": [],
-      "ipa": "/gɛ˨˨/",
-      "pron": "ge2",
-      "latinPron": "gè",
+      "ipa": "/ke˨˨/",
+      "pron": "ke2",
+      "latinPron": "kè",
       "example": [],
       "num": "7"
     },
