@@ -9,12 +9,12 @@
     "desc": ""
   },
   {
-    "path": "dict/phun-dict.json",
+    "path": "dict/phun5.json",
     "pathList": [
       "dict",
-      "phun-dict.json"
+      "phun5.json"
     ],
-    "title": "phun-dict.json",
+    "title": "phun5.json",
     "desc": ""
   },
   {
